@@ -1,0 +1,10 @@
+# TensorFlow-related packages for handson-ml3
+
+tensorflow==2.14.0
+keras-core
+keras-tuner==1.4.6
+tensorboard==2.14.1
+tensorboard-plugin-profile==2.14.0
+tensorflow-datasets==4.9.3
+tensorflow-hub==0.15.0
+tensorflow-serving-api==2.14.0 
