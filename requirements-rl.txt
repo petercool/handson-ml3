@@ -1,0 +1,5 @@
+# Reinforcement learning packages for handson-ml3
+# Note: box2d-py requires SWIG to be installed
+
+gymnasium[classic_control,atari]
+# box2d-py==2.3.*  # Requires SWIG to be installed 

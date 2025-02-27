@@ -1,0 +1,4 @@
+# Cloud services packages for handson-ml3
+
+google-cloud-aiplatform==1.36.2
+google-cloud-storage==2.13.0 
